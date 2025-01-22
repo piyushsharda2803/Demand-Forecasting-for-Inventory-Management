@@ -1,4 +1,4 @@
-# Inventory Management and Demand Forecasting System 📈📦
+# Demand Forecasting for Inventory Management 📈📦
 
 ## Project Overview
 
